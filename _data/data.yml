@@ -88,46 +88,50 @@ experiences:
       company: Ambarkaar Software
 
 projects:
-    title: Virmedica eAccess Platform
-    intro: >
-      - Development of application in Spring Framework 4 and AngularJs.
-      - Use of Okta Authentication API for User authentication.
-      - Responsible for building endpoint API and UI.
-      - Responsible for adding Unit test for implemented functionality and business logic.
-      - Responsible for covering more than 90% of code coverage for implemented code..
-      - Responsible for adding End to End testing of UI for implemented feature.
-      - Use of Git as Version Management.
-      - Worked in a Scrum Model.
-      - Practice of Verbal and Written communication with offshore team.
-      - Use of Atlassian JIRA as project management tool.
+    - title: Virmedica eAccess Platform
+      company: F1Soft International Pvt. Ltd
+      intro: |
+          - Development of application in Spring Framework 4 and AngularJs.
+          - Use of Okta Authentication API for User authentication.
+          - Responsible for building endpoint API and UI.
+          - Responsible for adding Unit test for implemented functionality and business logic.
+          - Responsible for covering more than 90% of code coverage for implemented code..
+          - Responsible for adding End to End testing of UI for implemented feature.
+          - Use of Git as Version Management.
+          - Worked in a Scrum Model.
+          - Practice of Verbal and Written communication with offshore team.
+          - Use of Atlassian JIRA as project management tool.
   
-    title: Express/Internet Banking System
-    intro: >
-        - Development of application in Java Enterprise Edition 7 and AngularJs.
-        - Responsible for System development of Restful Banking System application.
-        - Responsible for building endpoint API and UI.
-        - Implementation of JWT for user authentication.
-        - Implementation of Java Message Service (JMS) for email notification.
-        - Responsible for handling Transaction management and Exception Handling.
-        - Responsible for adding Unit test for added functionality and business logic.
-        - Use of Git as Version management.
-
-    title: Payment/eWallet System (Smart Card)
-    intro: >
-        - Development of application in Java Enterprise Edition 7 and AngularJs.
-        - Responsible for development of Restful Online Payment System application.
-        - Responsible for building endpoint API and UI.
-        - Implementation of JWT for user authentication.
-        - Implementation of Java Message Service (JMS) for email notification.
-        - Responsible for handling Transaction management and Exception Handling.
-        - Responsible for adding Unit testing for added functionality and business logic.
-        - Use of Git as Version management.
-  
-    title: Card Center Management System (CCMS)
-    intro: >
-          - Development of application in CodeIgniter 4 and use of Doctrine as ORM tool.
-          - System development of Server Side Session based application.
+    - title: Express/Internet Banking System
+      company: F1Soft International Pvt. Ltd
+      intro: |
+          - Development of application in Java Enterprise Edition 7 and AngularJs.
+          - Responsible for System development of Restful Banking System application.
+          - Responsible for building endpoint API and UI.
+          - Implementation of JWT for user authentication.
+          - Implementation of Java Message Service (JMS) for email notification.
+          - Responsible for handling Transaction management and Exception Handling.
+          - Responsible for adding Unit test for added functionality and business logic.
           - Use of Git as Version management.
+
+    - title: Payment/eWallet System (Smart Card)
+      company: F1Soft International Pvt. Ltd
+      intro: |
+          - Development of application in Java Enterprise Edition 7 and AngularJs.
+          - Responsible for development of Restful Online Payment System application.
+          - Responsible for building endpoint API and UI.
+          - Implementation of JWT for user authentication.
+          - Implementation of Java Message Service (JMS) for email notification.
+          - Responsible for handling Transaction management and Exception Handling.
+          - Responsible for adding Unit testing for added functionality and business logic.
+          - Use of Git as Version management.
+  
+    - title: Card Center Management System (CCMS)
+      company: F1Soft International Pvt. Ltd
+      intro: |
+            - Development of application in CodeIgniter 4 and use of Doctrine as ORM tool.
+            - System development of Server Side Session based application.
+            - Use of Git as Version management.
 
 skills:
     title: Skills &amp; Proficiency
