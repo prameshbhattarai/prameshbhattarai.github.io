@@ -2,8 +2,6 @@
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](http://webjeda.com/online-cv/).
-
 <table>
   <tr>
     <th>Desktop</th>
@@ -18,16 +16,6 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](http://webje
     </td>
   </tr>
 </table>
-
-## Installation
-
-* [Fork](https://github.com/sharu725/online-cv/fork) the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready at `https://username.github.io/online-cv/`
-
-Change all the details from one place: ``_data/data.yml``
-
-Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
 ## Skins
 

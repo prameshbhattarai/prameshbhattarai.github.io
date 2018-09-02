@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    certificates: True
 
     # Profile information
     name: Pramesh Bhattarai
@@ -23,6 +24,22 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
+    certificates:
+      - course: Fundamental Data Structures and Algorithms
+        link: courses.edx.org/certificates/34ef7abc35104225bafed068281457c9
+        license: 34ef7abc35104225bafed068281457c9
+        institution: Edx
+
+      - course: Concurrent Programming in Java
+        link: www.coursera.org/account/accomplishments/verify/CAU6V95WTUD4
+        license: CAU6V95WTUD4
+        institution: Coursera
+
+      - course: Parallel Programming in Java
+        link: www.coursera.org/account/accomplishments/verify/53296BGQMUA4
+        license: 53296BGQMUA4
+        institution: Coursera
+
     languages:
       - idiom: English
         level: Professional
@@ -40,16 +57,17 @@ sidebar:
       - item: Coding
         link:
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      I am a full stack developer with experience on:  
+      I am a Software Developer with experiece on building Enterprise level applications.
+      I have experience on developing different applications in different programming languages.
+      As I am a full stack developer, I have a good knowledge in frontend's and backend's technologies
+      and also with database instances.
+      Following are the tools and technologies that i am familier with:
       - Programming Languages
           - Java 8, JavaScript (ECMAScript 5 and 6), PHP 5, SQL, C++, C, HTML 5
-      - Back-end Frameworks |
+      - Back-end Frameworks
           - Java Enterprise Edition 7, Spring Framework 4, CodeIgniter 4
       - Database ORM
           - MySql, Microsoft SQL Server, Hibernate, JPA
@@ -137,22 +155,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 83%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Javascript 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: AngularJs
+        level: 88%
+
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: PHP
+        level: 75%
+
+      - name: SQL
         level: 60%
 
 footer: >
