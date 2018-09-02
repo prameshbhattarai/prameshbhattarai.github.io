@@ -9,25 +9,12 @@
   {% for certificate in certificates %}
     <div class="item">
         <h4 class="course">{{ certificate.course }}</h4>
-        <h5 class="license">
-            <a href="{{ certificate.link }}">{{ certificate.license }}</a>
-            {{ certificate.university }}
-        </h5>
+        <span class="license">
+            <a href="http://{{ certificate.link }}" target="_blank">{{ certificate.license }}</a>
+        </span>
         <div class="institution">{{ certificate.institution }}</div>
     </div><!--//item-->
   {% endfor %}
-
-  <!-- <ul class="list-unstyled certificates-list">
-    {% for certificate in certificates %}
-
-      {% if certificate.link %}
-      <li><a href="{{ certificate.link }}">{{ certificate.course }}</a></li>
-      {% else %}
-      <li>{{ certificate.course }}</li>
-      {% endif %}
-
-    {% endfor %}
-  </ul> -->
 
 </div><!--//certificates-->
 {% endif %}
